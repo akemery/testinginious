@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 int power(int p, int n){
-   int i,x;
+   int i;
    x = 1;
       
    if(p == 0)
